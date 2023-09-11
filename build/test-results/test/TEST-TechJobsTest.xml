@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TechJobsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-05T23:49:58" hostname="MacBook-Pro.fios-router.home" time="0.028">
+  <properties/>
+  <testcase name="testPrintJobsNoResults" classname="TechJobsTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
